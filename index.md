@@ -4,7 +4,7 @@ This is my home page! My name is Keaton Al Dossari and I am a student at [Cal St
 
 ## Computer Science Projects
 
-My GitHub page is (https://github.com/kaldossari123).
+My GitHub page is http://github.com/kaldossari123
 
 ### CPSC 120
 
