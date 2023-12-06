@@ -9,6 +9,7 @@ My GitHub page is http://github.com/kaldossari123.
 ### CPSC 120
 
 * Lab 1
+    
     Lab 1 was a favorite of mine because it was the first program I ever wrote. I liked it because it showed me how writing programs work and what goes on behind the scenes in coding. This helped me learn how to write code to print a message.
 
 * Lab 3
