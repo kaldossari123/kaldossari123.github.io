@@ -9,11 +9,11 @@ My GitHub page is http://github.com/kaldossari123.
 ### CPSC 120
 
 * Lab 1
-    Lab 1 was a favorite of mine because it was the first program I ever wrote. I liked it because it showed me how writing programs work and what goes on behind the scenes in coding.      This helped me learn how to write code to print a message.
+    Lab 1 was a favorite of mine because it was the first program I ever wrote. I liked it because it showed me how writing programs work and what goes on behind the scenes in coding. This helped me learn how to write code to print a message.
 
 * Lab 3
 
-    Lab 3 part 1 was another favorite of mine because it introduced us to makefile, or the make command. I liked it because it was about writing code to calculate the price of pizza        based on the diameter and other measurements. It also taught me how to use the “make” command to help correct, clean up and re-format my code.
+    Lab 3 part 1 was another favorite of mine because it introduced us to makefile, or the make command. I liked it because it was about writing code to calculate the price of pizza based on the diameter and other measurements. It also taught me how to use the “make” command to help correct, clean up and re-format my code.
 
 * Lab 11
 
